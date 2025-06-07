@@ -1,2 +1,3 @@
 # Exploratory_Data_Analysis_Project_SQL
-Contained in this repository is a set of SQL scripts that shows different analysis methods, including tracking changes over time, cumulative calculations, performance measurement, data segmentation, and part-to-whole comparisons.
+----------------------------------------------------------------------------------------------------------
+This collection includes a variety of SQL scripts aimed at exploring, analyzing, and reporting on data. The scripts cover different topics like examining database structure, calculating key metrics, tracking trends over time, performing cumulative analysis, segmenting data, and more. Designed for data analysts and BI professionals, these queries make it easier to dig into relational databases, break down information, and generate insights quickly. Each script focuses on a specific analysis type and showcases effective ways to write SQL for real-world data challenges.
